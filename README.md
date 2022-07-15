@@ -6,6 +6,10 @@ Partie 1:
 
 ex:
 	python3 partie1.py 'tracked_items.csv' 'retailer_extract.csv'
+	
+Partie 2:
+
+Les deux fichiers pour importer les .csv en base de données PostgreSQL sont fournis. Cependant ils ne marcheront pas car le path des fichiers n'est pas le même.
 
 
 
